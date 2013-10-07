@@ -16,7 +16,7 @@ Package: \tab bootstrip\cr
 Type: \tab Package\cr
 Version: \tab 1.0\cr
 Date: \tab 2013-10-07\cr
-License: \tab MIT \cr
+License: \tab What license is it under?\cr
 }
 ~~ An overview of how to use the package, including the most important ~~
 ~~ functions ~~
